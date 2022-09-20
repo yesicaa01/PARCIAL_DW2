@@ -1,0 +1,3 @@
+La resolucion del proyecto consiste en realizar una intergaz sencilla  al acual el usuario pueda acceder
+Se agrego un avista para que tenga acceso a la visualizacion de los cambios que se esten realizando
+Se utilizaron migraciones para el enlace con la base de datos
